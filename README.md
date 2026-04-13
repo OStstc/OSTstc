@@ -1,4 +1,12 @@
-## Hi there 👋
+### Hi there 👋, my name is Oren Snider
+#### I am a TSTC student
+![I am a TSTC student](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+
+I've made the Construct program that allows you to perform orders and add inventory items.
+
+Skills: C# / SQL / Python / Java / JS / HTML / CSS
+
+- 🔭 I’m currently working on this page. 
 
 <!--
 **OStstc/OSTstc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
