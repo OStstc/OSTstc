@@ -1,6 +1,7 @@
 ### Hi there 👋, my name is Oren Snider
 #### I am a TSTC student
 ![I am a TSTC student](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 
 
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
