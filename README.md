@@ -1,6 +1,7 @@
 ## Welcome to my profile, my name is Oren Snider
 #### I am a TSTC student, soon to be graduate.
 
+![Alternate 'text' description for the image](/banner.png "Banner for my profile, it says 'Oren Snider TSTC, Computer Programming Technology.")
 
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
