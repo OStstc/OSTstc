@@ -1,5 +1,5 @@
 ## Welcome to my profile, my name is Oren Snider
-#### I am a TSTC student, soon to be graduate.
+#### I am currently a student at TSTC, but I am soon to be a graduate.
 
 ![Alternate 'text' description for the image](/banner.png "Banner for my profile, it says 'Oren Snider TSTC, Computer Programming Technology.")
 
@@ -17,12 +17,14 @@
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
-I've made numerous programs as projects, the largest one being the Construct program.
+I've made numerous programs as projects, the largest one being the Construct program made in C#.
 The Construct program that allows you to perform orders, add inventory items and view order data.
 
 Main Skills: C# / SQL / Java / JS / HTML / CSS
 
 - 🔭 I’m currently working on this page. 
+
+
 
 <!--
 **OStstc/OSTstc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
