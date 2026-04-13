@@ -1,7 +1,5 @@
-### Hi there 👋, my name is Oren Snider
-#### I am a TSTC student
-![I am a TSTC student](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+## Welcome to my profile, my name is Oren Snider
+#### I am a TSTC student, soon to be graduate.
 
 
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
@@ -18,10 +16,10 @@
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
+I've made numerous programs as projects, the largest one being the Construct program.
+The Construct program that allows you to perform orders, add inventory items and view order data.
 
-I've made the Construct program that allows you to perform orders and add inventory items.
-
-Skills: C# / SQL / Python / Java / JS / HTML / CSS
+Main Skills: C# / SQL / Java / JS / HTML / CSS
 
 - 🔭 I’m currently working on this page. 
 
