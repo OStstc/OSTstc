@@ -1,7 +1,6 @@
-## Welcome to my profile, my name is Oren Snider
-#### I am currently a student at TSTC, but I am soon to be a graduate.
 
 ![Alternate 'text' description for the image](/banner.png "Banner for my profile, it says 'Oren Snider TSTC, Computer Programming Technology.")
+
 
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -16,16 +15,23 @@
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
+![NetBeans IDE](https://img.shields.io/badge/NetBeansIDE-1B6AC6.svg?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white)
+
+## Welcome to my profile, my name is Oren Snider
+#### I am currently a student at TSTC, soon to be a graduate.
 
 I've made numerous programs as projects, the largest one being the Construct program made in C#.
 The Construct program that allows you to perform orders, add inventory items and view order data.
 
-Main Skills: C# / SQL / Java / JS / HTML / CSS
+The programs I'm most experienced in are Visual Studio 2022, Unity, and Apache NetBeans IDE 18
 
-- 🔭 I’m currently working on this page. 
+Main Skills: C# / SQL / Java / HTML / CSS
 
-
-
+- 👯 I’m looking to collaborate on any projects involving game engines like Unity or Godot.
+- 🌱 I’ve been recently using Asesprite to gain more experience with sprite art.
+- 📫 How to reach me: odsnider@mymail.tstc.edu
 <!--
 **OStstc/OSTstc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
