@@ -34,7 +34,7 @@ Main Skills: C# / SQL / Java / HTML / CSS
 - 📫 How to reach me: odsnider@mymail.tstc.edu
 
 
-#### The Construct program
+#### The Construct program's Manager-View
 
 <img src="mangerView.gif" width="500"/>
 <!--
