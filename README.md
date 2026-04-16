@@ -32,6 +32,11 @@ Main Skills: C# / SQL / Java / HTML / CSS
 - 👯 I’m looking to collaborate on any projects involving game engines like Unity or Godot.
 - 🌱 I’ve been recently using Asesprite to gain more experience with sprite art.
 - 📫 How to reach me: odsnider@mymail.tstc.edu
+
+
+#### The Construct program
+
+<img src="mangerView.gif" width="500"/>
 <!--
 **OStstc/OSTstc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
