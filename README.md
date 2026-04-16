@@ -36,7 +36,7 @@ Main Skills: C# / SQL / Java / HTML / CSS
 
 #### The Construct program's Manager-View
 
-<img src="mangerView.gif" width="500"/>
+<img src="managerView.gif" width="500"/>
 <!--
 **OStstc/OSTstc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
