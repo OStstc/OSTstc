@@ -33,6 +33,7 @@ Main Skills: C# / SQL / Java / HTML / CSS
 - 🌱 I’ve been recently using Asesprite to gain more experience with sprite art.
 - 📫 How to reach me: odsnider@mymail.tstc.edu
 
+I have a Github hosted site for more information! https://oststc.github.io/
 
 #### The Construct program's Manager-View
 
