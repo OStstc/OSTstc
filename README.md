@@ -1,5 +1,5 @@
 
-![Alternate 'text' description for the image](/banner1.png "Banner for my profile, it says 'Oren Snider TSTC, Computer Programming Technology.")
+![Alternate 'text' description for the image](/banner.png "Banner for my profile, it says 'Oren Snider TSTC, Computer Programming Technology.")
 
 
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
